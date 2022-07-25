@@ -1,4 +1,4 @@
-## Oie!!Meu nome é Shirlene, tenho 31 anos, sou formada em Rádio e TV e estou em transição de carreira 👋
+### Oie!!Meu nome é Shirlene, tenho 31 anos, sou formada em Rádio e TV, atualmente em transição de carreira para a area de tecnologia e estudando todo dia para melhorar minhas habilidades  👋
 
 <div align="center">
   <a href="https://github.com/shiteles">
