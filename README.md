@@ -1,4 +1,18 @@
-### Oie!!Meu nome é Shirlene, tenho 31 anos, sou formada em Rádio e TV, atualmente em transição de carreira para a area de tecnologia e estudando todo dia para melhorar minhas habilidades  👋
+### :woman_technologist: &nbsp;About Me :
+
+Hi, you can call me Shi <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+- 🔭 I'm a radialist in career transition.
+- 🎉 31 years old
+- 💻 Systems analysis and development student.
+- ⚡ Curious to know how things work.
+
+<div align="center"><br> 
+  <a href="https://instagram.com/shirleneteles" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:shiteles@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/shirleneteles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+---
 
 <div align="center">
   <a href="https://github.com/shiteles">
@@ -10,11 +24,22 @@
 </div>
 
 ##
-<div> 
-  <a href="https://instagram.com/shirleneteles" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:shiteles@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/shirleneteles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
+ 
+ 
+ <div align="center"><br> 
+ 
   ![Snake animation](https://github.com/shiteles/shiteles/blob/output/github-contribution-grid-snake.svg)
   
+ </div>
+ 
+  ---
+ 
+<div align="center"><br> 
+
+  ## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=shiteles&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
 </div>
