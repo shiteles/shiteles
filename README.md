@@ -2,7 +2,7 @@
 
 Hi, you can call me Shi <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 🔭 I'm a radialist in career transition.
+- 🔭 Quality Analyst junior
 - 🎉 31 years old
 - 💻 Systems analysis and development student.
 - ⚡ Curious to know how things work.
